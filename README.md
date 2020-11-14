@@ -1,2 +1,2 @@
 # PI-Leic-46061
-my solution of javascript workshop and other javascript stuff
+Repository from Programação na Internet, from student Manuel Silva nº46061
